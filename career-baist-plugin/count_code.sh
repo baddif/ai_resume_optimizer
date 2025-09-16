@@ -1,0 +1,1 @@
+cloc /Users/dif/Projects/PersonalProj/ResumeGenerator/ResumeGenerator/formal-plugins/career-baist-plugin/src

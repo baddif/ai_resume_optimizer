@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "english_title": "Unknown",
+    "english_description": "",
+    "chinese_title": "不确定",
+    "chinese_description": ""
+  },
+  {
+    "id": 1,
+    "english_title": "Custom",
+    "english_description": "",
+    "chinese_title": "自定义",
+    "chinese_description": ""
+  },
+  {
+    "id": 2,
+    "english_title": "Human Resources (HR) Manager",
+    "english_description": "Responsible for managing the company's HR activities, including recruitment, training, and performance management.",
+    "chinese_title": "人力资源负责人",
+    "chinese_description": "负责管理公司的人力资源活动，包括招聘、培训、绩效管理等。"
+  },
+  {
+    "id": 3,
+    "english_title": "Recruitment Manager",
+    "english_description": "Focuses on recruitment strategies and processes to ensure smooth hiring operations.",
+    "chinese_title": "招聘负责人/招聘经理",
+    "chinese_description": "专注于招聘策略和流程，确保招聘过程顺利进行。"
+  },
+  {
+    "id": 4,
+    "english_title": "Team Leader / Group Leader",
+    "english_description": "Manages day-to-day tasks and assignments for the team to achieve goals.",
+    "chinese_title": "组长/团队领导",
+    "chinese_description": "负责团队的日常管理和工作分配，确保团队目标的实现。"
+  },
+  {
+    "id": 5,
+    "english_title": "Future Colleagues / Team Members",
+    "english_description": "Refers to potential team members the candidate may work with.",
+    "chinese_title": "未来的同事/团队成员",
+    "chinese_description": "指的是候选人未来可能合作的团队成员。"
+  },
+  {
+    "id": 6,
+    "english_title": "Department Manager",
+    "english_description": "Manages and operates a specific department to achieve its objectives.",
+    "chinese_title": "部门经理",
+    "chinese_description": "负责特定部门的管理和运营，确保部门目标的达成。"
+  },
+  {
+    "id": 7,
+    "english_title": "Chief Technology Officer (CTO)",
+    "english_description": "Oversees the company’s technical strategy and manages the technical team.",
+    "chinese_title": "首席技术官",
+    "chinese_description": "负责公司的技术战略和技术团队的管理。"
+  },
+  {
+    "id": 8,
+    "english_title": "Chief Financial Officer (CFO)",
+    "english_description": "Responsible for financial planning, reporting, and budgeting of the company.",
+    "chinese_title": "首席财务官",
+    "chinese_description": "负责公司的财务管理和战略，包括预算、财务报告等。"
+  },
+  {
+    "id": 9,
+    "english_title": "Chief Executive Officer (CEO)",
+    "english_description": "The highest-ranking executive, responsible for overall company strategy and operations.",
+    "chinese_title": "首席执行官",
+    "chinese_description": "公司的最高管理者，负责公司整体战略和运营。"
+  },
+  {
+    "id": 10,
+    "english_title": "Chief Operating Officer (COO)",
+    "english_description": "Manages the company's day-to-day operations and administrative functions.",
+    "chinese_title": "首席运营官",
+    "chinese_description": "负责公司的日常运营和管理。"
+  },
+  {
+    "id": 11,
+    "english_title": "External Recruitment Consultant / Headhunter",
+    "english_description": "External professional or agency helping the company find and screen suitable candidates.",
+    "chinese_title": "外部招聘顾问/猎头",
+    "chinese_description": "外部顾问或猎头公司，帮助公司寻找和筛选合适的候选人。"
+  }
+]
