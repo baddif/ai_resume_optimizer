@@ -61,7 +61,7 @@ So this is the first project I built with WordPress.
 
 ## 🎥 Demo
 
-- [YouTube Demo Video](https://www.youtube.com/watch?v=v64nUr6e2OI)
+[![Watch the video](https://img.youtube.com/vi/v64nUr6e2OI/maxresdefault.jpg)](https://www.youtube.com/watch?v=v64nUr6e2OI)
 
 ---
 
