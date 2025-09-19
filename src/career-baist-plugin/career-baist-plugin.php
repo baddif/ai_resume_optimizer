@@ -912,9 +912,7 @@ function career_login_user($request) {
     }
 }
 function generate_text_from_huggingface($input_text) {
-    // function generate_text_from_huggingface($api_token, $model_id, $input_text) {
-    // $url = "https://api-inference.huggingface.co/models/$model_id";
-    $url = cbi_get_hugging_face_api_url(); // "https://router.huggingface.co/novita/v3/openai/chat/completions";
+    $url = cbi_get_hugging_face_api_url();
     $token = cbi_get_hugging_face_api_token();
     $headers = [
         "Authorization: Bearer $token",
@@ -930,13 +928,6 @@ function generate_text_from_huggingface($input_text) {
         "model" => "deepseek/deepseek-v3-0324",
         "stream" => false
     ];
-    // $data = [
-    //     "inputs" => $input_text,
-    //     "parameters" => [
-    //         "max_length" => 500, // 你可以根据需要调整最大长度
-    //         "num_return_sequences" => 1
-    //     ]
-    // ];
 
     $ch = curl_init($url);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
