@@ -77,8 +77,8 @@ npm install # only 1 plugin need to install dependencies
 
 # Start the service
 ./build.sh
--- Then upload the 3 zip files in build directory as plugins to WordPress.
--- In WordPress, build 3 pages and write short code in it:
-  -- Page slug: welcome, short code: [guest_optimize]
-  -- Page slug: my_career, short code: [dashboard_page]
-  -- Page slug: reset-password, short code: [reset-password]
+# -- Then upload the 3 zip files in build directory as plugins to WordPress.
+# -- In WordPress, build 3 pages and write short code in it:
+#   -- Page slug: welcome, short code: [guest_optimize]
+#   -- Page slug: my_career, short code: [dashboard_page]
+#   -- Page slug: reset-password, short code: [reset-password]
