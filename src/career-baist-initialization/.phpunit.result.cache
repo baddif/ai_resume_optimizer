@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"ExampleTest::testBasicFunctionality":0.002}}
+{"version":1,"defects":{"GetHuggingfaceApiUrlTest::testReturnsGlobalUrl":4},"times":{"ExampleTest::testBasicFunctionality":0.002,"GetHuggingfaceApiUrlTest::testReturnsGlobalUrl":0.003}}
