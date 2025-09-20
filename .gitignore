@@ -144,3 +144,8 @@ build/*
 
 # system
 .DS_Store
+vendor/
+*.zip
+*.swp
+*.swo
+*~
