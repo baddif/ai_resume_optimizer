@@ -82,3 +82,6 @@ npm install # only 1 plugin need to install dependencies
 #   -- Page slug: welcome, short code: [guest_optimize]
 #   -- Page slug: my_career, short code: [dashboard_page]
 #   -- Page slug: reset-password, short code: [reset-password]
+
+# Test
+./run_all_tests.sh
