@@ -6,7 +6,7 @@
 <!-- Project Title -->
 <h1 align="center">🚀 AI Resume Optimizer</h1>
 <p align="center">
-A Website using AI to optimize the resume for users.
+A Website using AI to optimize the resume for users. Built by React / PHP as 3 WordPress Plugins.
 </p>
 
 <!-- Badges (Optional) -->
@@ -16,12 +16,19 @@ A Website using AI to optimize the resume for users.
   <a href="https://github.com/baddif/ai_resume_optimizer/blob/main/LICENSE"><img src="https://img.shields.io/github/license/baddif/ai_resume_optimizer" alt="License"></a>
 </p>
 
+
+---
+
+## 🎥 Demo
+
+[![Watch the video](https://img.youtube.com/vi/v64nUr6e2OI/maxresdefault.jpg)](https://www.youtube.com/watch?v=v64nUr6e2OI)
+[AI Resume Optimizer](https://career.nonpareil.me/)
 ---
 
 ## 📖 Introduction
 - **Core Features**: User inputs parts of the resume, for example, summary, project details, work experience, achievements, etc... The site calls AI APIs to optimize it. Suppport multiple versions of optimization.
-- **Tech Stack**: WordPress, JavaScript, 
-- **Frameworks**: RESTful API, React, 
+- **Tech Stack**: WordPress, JavaScript, PHP, MySQL
+- **Frameworks**: RESTful API, React, WordPress, Jest, PHPUnit, WP_Mock
 
 ---
 
@@ -56,13 +63,6 @@ So this is the first project I built with WordPress.
   -- The 3 plugins can be merged into 1.
   -- The cache in React Pages is not necessary. This is over design. It involved too much complexity, just for little user experience on the frontend pages... and the experience may not be any difference to end users.
   -- The session management is not very well, need to be improved.
-
----
-
-## 🎥 Demo
-
-[![Watch the video](https://img.youtube.com/vi/v64nUr6e2OI/maxresdefault.jpg)](https://www.youtube.com/watch?v=v64nUr6e2OI)
-
 ---
 
 ## 📌 Usage
