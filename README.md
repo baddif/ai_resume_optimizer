@@ -6,7 +6,7 @@
 <!-- Project Title -->
 <h1 align="center">🚀 AI Resume Optimizer</h1>
 <p align="center">
-A Website using AI to optimize the resume for users. Built by React / PHP as 3 WordPress Plugins.
+A Website using AI to optimize resume for users into different versions. Built by React / PHP as WordPress Plugins.
 </p>
 
 <!-- Badges (Optional) -->
