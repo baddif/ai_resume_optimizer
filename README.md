@@ -2,7 +2,6 @@
 <p align="center">
   <img src="docs/logo.png" alt="Project Logo" width="120" height="120" style="border-radius:50%;" />
 </p>
-**Online Experience**: [AI Resume Optimizer](https://career.nonpareil.me/)
 
 <!-- Project Title -->
 <h1 align="center">🚀 AI Resume Optimizer</h1>
@@ -17,6 +16,11 @@ A Website using AI to optimize resume for users into different versions. Built b
   <a href="https://github.com/baddif/ai_resume_optimizer/blob/main/LICENSE"><img src="https://img.shields.io/github/license/baddif/ai_resume_optimizer" alt="License"></a>
 </p>
 
+---
+
+## 💁 Online Experience
+
+[AI Resume Optimizer](https://career.nonpareil.me/)
 
 ---
 
