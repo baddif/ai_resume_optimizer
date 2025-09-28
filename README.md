@@ -22,7 +22,7 @@ A Website using AI to optimize the resume for users. Built by React / PHP as 3 W
 ## 🎥 Demo
 
 [![Watch the video](https://img.youtube.com/vi/v64nUr6e2OI/maxresdefault.jpg)](https://www.youtube.com/watch?v=v64nUr6e2OI)
-[AI Resume Optimizer](https://career.nonpareil.me/)
+**Online Experience**: [AI Resume Optimizer](https://career.nonpareil.me/)
 ---
 
 ## 📖 Introduction
